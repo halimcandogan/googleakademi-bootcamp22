@@ -4,6 +4,8 @@ Takım Flutter 73
 
 # Ürün İle İlgili Bilgiler
 
+Üniversite öğrencilerinin ders notu bulma ve paylaşım uygulaması. Kolayca ve vakit kaybetmeden tek uygulama çatısı altında ders notlarına ulaşabilecekler.
+
 ## Takım Elemanları
 - Emine Zeybek: Scrum Master / Product Owner / Developer
 - Halim Can Doğan: Developer
