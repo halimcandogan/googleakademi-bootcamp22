@@ -63,8 +63,28 @@ Alınan kararlar: Proje belirlenmiş olup, ek özellikleri tanımlanmıştır. T
 - **Sprint Retrospective:**
   - Toplantı ile roller belirlenmiş ve yapacağımız proje belirlenmiştir.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
- 
 
+ # Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://raw.githubusercontent.com/halimcandogan/googleakademi-bootcamp22/main/sprint1.png)
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Backlog 1]([https://raw.githubusercontent.com/halimcandogan/googleakademi-bootcamp22/main/sprint2.png]
+  
+- **Sprint Review**: 
+  - Pek ilerleme sağlanamamıştır. Bu sprintten sonra ekipçe işe yogunlaşılacaktır.
+
+- **Sprint Retrospective:**
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 ---
 
