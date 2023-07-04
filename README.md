@@ -78,8 +78,8 @@ Alınan kararlar: Proje belirlenmiş olup, ek özellikleri tanımlanmıştır. T
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Backlog 1]([https://raw.githubusercontent.com/halimcandogan/googleakademi-bootcamp22/main/sprint2.png]
-  
+  ![sablon](https://raw.githubusercontent.com/halimcandogan/googleakademi-bootcamp22/main/sprint2.png)
+  ![sablon](https://raw.githubusercontent.com/halimcandogan/googleakademi-bootcamp22/main/sablon.png)
 - **Sprint Review**: 
   - Pek ilerleme sağlanamamıştır. Bu sprintten sonra ekipçe işe yogunlaşılacaktır.
 
